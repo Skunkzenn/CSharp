@@ -1,0 +1,8 @@
+C:\Users\Programacao PC\source\repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\source\repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\source\repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\Programacao PC\source\repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache

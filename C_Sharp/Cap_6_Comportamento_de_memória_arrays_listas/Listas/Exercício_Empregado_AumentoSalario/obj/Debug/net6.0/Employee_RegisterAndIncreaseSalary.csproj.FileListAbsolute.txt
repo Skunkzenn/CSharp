@@ -1,0 +1,15 @@
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\bin\Debug\net6.0\Employee_RegisterAndIncreaseSalary.exe
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\bin\Debug\net6.0\Employee_RegisterAndIncreaseSalary.deps.json
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\bin\Debug\net6.0\Employee_RegisterAndIncreaseSalary.runtimeconfig.json
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\bin\Debug\net6.0\Employee_RegisterAndIncreaseSalary.dll
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\bin\Debug\net6.0\Employee_RegisterAndIncreaseSalary.pdb
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.csproj.AssemblyReference.cache
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.AssemblyInfo.cs
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.csproj.CoreCompileInputs.cache
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.dll
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\refint\Employee_RegisterAndIncreaseSalary.dll
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.pdb
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\Employee_RegisterAndIncreaseSalary.genruntimeconfig.cache
+C:\Users\Programacao PC\Documents\Aulas_C#\Employee_RegisterAndIncreaseSalary\obj\Debug\net6.0\ref\Employee_RegisterAndIncreaseSalary.dll

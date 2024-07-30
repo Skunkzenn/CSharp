@@ -1,0 +1,21 @@
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.AssemblyInfoInputs.cache
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.AssemblyInfo.cs
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\bin\Debug\net6.0\Projetos_CSharp.exe
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\bin\Debug\net6.0\Projetos_CSharp.deps.json
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\bin\Debug\net6.0\Projetos_CSharp.runtimeconfig.json
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\bin\Debug\net6.0\Projetos_CSharp.dll
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\bin\Debug\net6.0\Projetos_CSharp.pdb
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.dll
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\refint\Projetos_CSharp.dll
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.pdb
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.genruntimeconfig.cache
+C:\Users\victo\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\ref\Projetos_CSharp.dll
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.AssemblyInfo.cs
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.dll
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\refint\Projetos_CSharp.dll
+C:\Users\Programacao PC\Source\Repos\C_Sharp\Projetos_CSharp\Projetos_CSharp\obj\Debug\net6.0\Projetos_CSharp.pdb

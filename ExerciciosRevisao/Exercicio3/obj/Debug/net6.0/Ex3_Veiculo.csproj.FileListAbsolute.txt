@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\bin\Debug\net6.0\Ex3_Veiculo.exe
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\bin\Debug\net6.0\Ex3_Veiculo.deps.json
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\bin\Debug\net6.0\Ex3_Veiculo.runtimeconfig.json
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\bin\Debug\net6.0\Ex3_Veiculo.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\bin\Debug\net6.0\Ex3_Veiculo.pdb
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\refint\Ex3_Veiculo.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.pdb
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\Ex3_Veiculo.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio3\obj\Debug\net6.0\ref\Ex3_Veiculo.dll

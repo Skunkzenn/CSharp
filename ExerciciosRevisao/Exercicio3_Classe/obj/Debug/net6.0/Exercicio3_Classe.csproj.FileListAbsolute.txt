@@ -1,0 +1,14 @@
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\bin\Debug\net6.0\Exercicio3_Classe.exe
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\bin\Debug\net6.0\Exercicio3_Classe.deps.json
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\bin\Debug\net6.0\Exercicio3_Classe.runtimeconfig.json
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\bin\Debug\net6.0\Exercicio3_Classe.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\bin\Debug\net6.0\Exercicio3_Classe.pdb
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.AssemblyInfoInputs.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.AssemblyInfo.cs
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\refint\Exercicio3_Classe.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.pdb
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\Exercicio3_Classe.genruntimeconfig.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio3_Classe\obj\Debug\net6.0\ref\Exercicio3_Classe.dll

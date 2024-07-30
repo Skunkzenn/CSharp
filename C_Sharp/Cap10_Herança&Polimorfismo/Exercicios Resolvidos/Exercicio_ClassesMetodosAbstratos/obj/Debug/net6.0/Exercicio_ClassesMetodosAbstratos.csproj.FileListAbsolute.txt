@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\bin\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.exe
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\bin\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.deps.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\bin\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.runtimeconfig.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\bin\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\bin\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\refint\Exercicio_ClassesMetodosAbstratos.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\Exercicio_ClassesMetodosAbstratos.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_ClassesMetodosAbstratos\obj\Debug\net6.0\ref\Exercicio_ClassesMetodosAbstratos.dll

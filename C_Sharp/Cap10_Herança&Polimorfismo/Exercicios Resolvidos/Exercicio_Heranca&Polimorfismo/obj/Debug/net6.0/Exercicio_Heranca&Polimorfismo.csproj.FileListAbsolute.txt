@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\bin\Debug\net6.0\Exercicio_Heranca&Polimorfismo.exe
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\bin\Debug\net6.0\Exercicio_Heranca&Polimorfismo.deps.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\bin\Debug\net6.0\Exercicio_Heranca&Polimorfismo.runtimeconfig.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\bin\Debug\net6.0\Exercicio_Heranca&Polimorfismo.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\bin\Debug\net6.0\Exercicio_Heranca&Polimorfismo.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\refint\Exercicio_Heranca&Polimorfismo.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\Exercicio_Heranca&Polimorfismo.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\Exercicio_Heranca&Polimorfismo\obj\Debug\net6.0\ref\Exercicio_Heranca&Polimorfismo.dll

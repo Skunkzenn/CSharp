@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\net6.0\ExercicioVetor.exe
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\net6.0\ExercicioVetor.deps.json
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\net6.0\ExercicioVetor.runtimeconfig.json
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\net6.0\ExercicioVetor.dll
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\bin\Debug\net6.0\ExercicioVetor.pdb
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.dll
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\refint\ExercicioVetor.dll
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.pdb
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ExercicioVetor.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\ExercicioVetor\ExercicioVetor\obj\Debug\net6.0\ref\ExercicioVetor.dll

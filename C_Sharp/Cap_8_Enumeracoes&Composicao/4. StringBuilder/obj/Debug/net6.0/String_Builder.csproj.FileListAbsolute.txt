@@ -1,0 +1,14 @@
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.AssemblyInfo.cs
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\bin\Debug\net6.0\String_Builder.exe
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\bin\Debug\net6.0\String_Builder.deps.json
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\bin\Debug\net6.0\String_Builder.runtimeconfig.json
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\bin\Debug\net6.0\String_Builder.dll
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\bin\Debug\net6.0\String_Builder.pdb
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.dll
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\refint\String_Builder.dll
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.pdb
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\String_Builder.genruntimeconfig.cache
+C:\Users\Programacao PC\source\repos\Exercicios\StringBuilder\obj\Debug\net6.0\ref\String_Builder.dll

@@ -1,0 +1,31 @@
+﻿namespace Exercicios.Entities
+{
+    class Account
+    {
+        public int Number { get; set; }
+        public string Holder { get; set; }
+        //Modificador de acesso 'PROTECTED' - valor só pode ser alterado dentro da classe, ou por uma subclasse, mas no programa principal não podemos alterar o seu valor;
+        public double Balance { get; protected set; }
+    
+        public Account() { }
+
+        public Account(int number, string holder, double balance)
+        {
+            Number = number;
+            Holder = holder;
+            Balance = balance;
+        }
+
+        //Permite que o método de saque pode ser subscrito ou sobreposto nas subclasses 
+        public virtual void Withdraw(double amount)
+        {
+            Balance -= amount;
+        }
+
+        public void Deposit(double amount) {
+            Balance += amount;
+        }
+    }
+
+    
+}

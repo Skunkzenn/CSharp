@@ -1,0 +1,5 @@
+C:\Users\Programacao PC\source\repos\Cont_Curso_Udemy\Cont_Curso_Udemy\obj\Debug\net6.0\Cont_Curso_Udemy.csproj.AssemblyReference.cache
+C:\Users\Programacao PC\source\repos\Cont_Curso_Udemy\Cont_Curso_Udemy\obj\Debug\net6.0\Cont_Curso_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\source\repos\Cont_Curso_Udemy\Cont_Curso_Udemy\obj\Debug\net6.0\Cont_Curso_Udemy.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\source\repos\Cont_Curso_Udemy\Cont_Curso_Udemy\obj\Debug\net6.0\Cont_Curso_Udemy.AssemblyInfo.cs
+C:\Users\Programacao PC\source\repos\Cont_Curso_Udemy\Cont_Curso_Udemy\obj\Debug\net6.0\Cont_Curso_Udemy.csproj.CoreCompileInputs.cache

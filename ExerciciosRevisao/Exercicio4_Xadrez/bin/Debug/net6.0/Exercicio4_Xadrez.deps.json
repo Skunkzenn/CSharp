@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio4_Xadrez/1.0.0": {
+        "runtime": {
+          "Exercicio4_Xadrez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio4_Xadrez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

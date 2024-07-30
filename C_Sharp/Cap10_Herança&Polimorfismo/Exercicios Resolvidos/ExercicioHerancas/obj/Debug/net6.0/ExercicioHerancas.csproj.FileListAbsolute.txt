@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\bin\Debug\net6.0\ExercicioHerancas.exe
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\bin\Debug\net6.0\ExercicioHerancas.deps.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\bin\Debug\net6.0\ExercicioHerancas.runtimeconfig.json
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\bin\Debug\net6.0\ExercicioHerancas.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\bin\Debug\net6.0\ExercicioHerancas.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\refint\ExercicioHerancas.dll
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.pdb
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ExercicioHerancas.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Ambiente de Trabalho\Udemy_Curse\C\a18586\ExercicioHerancas\obj\Debug\net6.0\ref\ExercicioHerancas.dll
