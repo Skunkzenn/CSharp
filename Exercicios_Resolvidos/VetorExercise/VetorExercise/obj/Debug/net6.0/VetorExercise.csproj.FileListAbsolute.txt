@@ -1,0 +1,14 @@
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\bin\Debug\net6.0\VetorExercise.exe
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\bin\Debug\net6.0\VetorExercise.deps.json
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\bin\Debug\net6.0\VetorExercise.runtimeconfig.json
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\bin\Debug\net6.0\VetorExercise.dll
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\bin\Debug\net6.0\VetorExercise.pdb
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.AssemblyInfoInputs.cache
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.AssemblyInfo.cs
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.csproj.CoreCompileInputs.cache
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.dll
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\refint\VetorExercise.dll
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.pdb
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\VetorExercise.genruntimeconfig.cache
+C:\Users\SQL Service\source\repos\VetorExercise\VetorExercise\obj\Debug\net6.0\ref\VetorExercise.dll

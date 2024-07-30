@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercicio1_Revisao
-build_property.ProjectDir = C:\Users\SQL Service\source\repos\CSharp\ExerciciosRevisao\ExerciciosRevisao\
+build_property.ProjectDir = C:\Users\SQL Service\Source\Repos\CSharp\ExerciciosRevisao\ExerciciosRevisao\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
