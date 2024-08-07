@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SQL Service\\source\\repos\\Listas\\Listas\\Listas.csproj",
+      "projectUniqueName": "C:\\Users\\SQL Service\\source\\repos\\CSharp\\Exercicios_Resolvidos\\ListExercise\\Listas\\Listas.csproj",
       "projectName": "Listas",
-      "projectPath": "C:\\Users\\SQL Service\\source\\repos\\Listas\\Listas\\Listas.csproj",
+      "projectPath": "C:\\Users\\SQL Service\\source\\repos\\CSharp\\Exercicios_Resolvidos\\ListExercise\\Listas\\Listas.csproj",
       "packagesPath": "C:\\Users\\SQL Service\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SQL Service\\source\\repos\\Listas\\Listas\\obj\\",
+      "outputPath": "C:\\Users\\SQL Service\\source\\repos\\CSharp\\Exercicios_Resolvidos\\ListExercise\\Listas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
