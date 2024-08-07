@@ -66,8 +66,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 Este README foi criado para ajudar na compreensão e execução do projeto desenvolvido no curso de C# da Udemy. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato.
 
-Autor: Victor Destefani
-
-Curso: Desenvolvimento em C# - Udemy
-
-Instrutor: Nélio Alves
+**Autor:** Victor Destefani  
+**Curso:** Desenvolvimento em C# - Udemy  
+**Instrutor:** Nélio Alves
