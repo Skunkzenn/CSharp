@@ -58,7 +58,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Skunkzenn/CSharp
    cd nome-do-repositorio
 
 ## Licença
