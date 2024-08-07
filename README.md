@@ -8,7 +8,6 @@ Este repositório contém o projeto desenvolvido durante o curso de C# na Udemy,
 - [Conteúdos do Curso](#conteúdos-do-curso)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar o Projeto](#como-executar-o-projeto)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Descrição
@@ -61,3 +60,12 @@ Para executar o projeto localmente, siga os passos abaixo:
    ```sh
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Este README foi criado para ajudar na compreensão e execução do projeto desenvolvido no curso de C# da Udemy. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato.
+
+Autor: Victor Destefani
+Curso: Desenvolvimento em C# - Udemy
+Instrutor: Nélio Alves
