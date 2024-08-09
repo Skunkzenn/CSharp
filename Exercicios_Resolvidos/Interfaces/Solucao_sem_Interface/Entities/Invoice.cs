@@ -11,6 +11,7 @@ namespace Course.Entities {
             Tax = tax;
         }
 
+        //Propriedade calculada
         public double TotalPayment {
             get { return BasicPayment + Tax; }
         }
