@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C_Sharp",
-    "\\C_Sharp\\Cap10_Heran\u00E7a\u0026Polimorfismo\\1 - Heranca",
-    "\\C_Sharp\\Cap11_TratamentoDeExce\u00E7\u00F5es"
+    "\\C_Sharp\\Cap_14_Interfaces",
+    "\\C_Sharp\\Cap_14_Interfaces\\Interfaces",
+    "\\Exercicios_Resolvidos",
+    "\\Exercicios_Resolvidos\\Interfaces",
+    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface",
+    "\\Exercicios_Resolvidos\\Lista\\Exerc\u00EDcio_Empregado_AumentoSalario",
+    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor2",
+    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor3",
+    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor3\\ExercicioVetor"
   ],
-  "SelectedNode": "\\C_Sharp\\Cap11_TratamentoDeExce\u00E7\u00F5es\\Exception_GoodSolution",
   "PreviewInSolutionExplorer": false
 }

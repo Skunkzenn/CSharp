@@ -8,27 +8,27 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Cap_3_Recaptulando_Logica_com_C_Sharp_1\Cap_3_Recaptulando_Logica_com_C_Sharp_1.csproj" />
-    <None Include="Cap_3_Recaptulando_Logica_com_C_Sharp_2\Cap_3_Recaptulando_Logica_com_C_Sharp.csproj" />
-    <None Include="Cap_4_Classes_Atributos_Metodos_MembrosEstaticos_\Cap_4_Classes_Atributos_Metodos_MembrosEstaticos_.csproj" />
-    <None Include="Cap_5_Construtores_This_Sobrecarga_Encapsulamento\Cap_5_Construtores_This_Sobrecarga_Encapsulamento.csproj" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Cap_6_Comportamento_de_memória_arrays_listas.csproj" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Listas\Exercício_Empregado_AumentoSalario\Employee_RegisterAndIncreaseSalary.csproj" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\DesignTimeBuild\.dtbcache.v2" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\FileContentIndex\7a9665d2-ff8a-4852-ac60-7fdfa82f585a.vsidx" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\v17\.futdcache.v2" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\v17\.wsuo" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\ProjectEvaluation\matrizes.metadata.v7.bin" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\ProjectEvaluation\matrizes.projects.v7.bin" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\Matrizes.sln" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\Matrizes\Matrizes.csproj" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ExercicioVetor\v17\.futdcache.v2" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ExercicioVetor\v17\.wsuo" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ProjectEvaluation\exerciciovetor.metadata.v7.bin" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ProjectEvaluation\exerciciovetor.projects.v7.bin" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\ExercicioVetor.sln" />
-    <None Include="Cap_6_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\ExercicioVetor\ExercicioVetor.csproj" />
-    <None Include="Cap_8_Enumeracoes&amp;Composicao\4. StringBuilder\String_Builder.csproj" />
+    <None Include="Cap_03_Recaptulando_Logica_com_C_Sharp_1\Cap_3_Recaptulando_Logica_com_C_Sharp_1.csproj" />
+    <None Include="Cap_03_Recaptulando_Logica_com_C_Sharp_2\Cap_3_Recaptulando_Logica_com_C_Sharp.csproj" />
+    <None Include="Cap_04_Classes_Atributos_Metodos_MembrosEstaticos_\Cap_4_Classes_Atributos_Metodos_MembrosEstaticos_.csproj" />
+    <None Include="Cap_05_Construtores_This_Sobrecarga_Encapsulamento\Cap_5_Construtores_This_Sobrecarga_Encapsulamento.csproj" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Cap_6_Comportamento_de_memória_arrays_listas.csproj" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Listas\Exercício_Empregado_AumentoSalario\Employee_RegisterAndIncreaseSalary.csproj" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\FileContentIndex\7a9665d2-ff8a-4852-ac60-7fdfa82f585a.vsidx" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\v17\.futdcache.v2" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\Matrizes\v17\.wsuo" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\ProjectEvaluation\matrizes.metadata.v7.bin" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\.vs\ProjectEvaluation\matrizes.projects.v7.bin" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\Matrizes.sln" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Matrizes\Exercicio_Pos_Left_Right_Top_Down_Element\Matrizes\Matrizes\Matrizes.csproj" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ExercicioVetor\v17\.futdcache.v2" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ExercicioVetor\v17\.wsuo" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ProjectEvaluation\exerciciovetor.metadata.v7.bin" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\.vs\ProjectEvaluation\exerciciovetor.projects.v7.bin" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\ExercicioVetor.sln" />
+    <None Include="Cap_06_Comportamento_de_memória_arrays_listas\Vetores\Exercicio_Vetor3\ExercicioVetor\ExercicioVetor.csproj" />
+    <None Include="Cap_08_Enumeracoes&amp;Composicao\4. StringBuilder\String_Builder.csproj" />
   </ItemGroup>
 
 </Project>
