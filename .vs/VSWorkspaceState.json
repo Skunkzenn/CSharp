@@ -1,15 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C_Sharp\\Cap_14_Interfaces",
-    "\\C_Sharp\\Cap_14_Interfaces\\Interfaces",
     "\\Exercicios_Resolvidos",
     "\\Exercicios_Resolvidos\\Interfaces",
     "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface",
-    "\\Exercicios_Resolvidos\\Lista\\Exerc\u00EDcio_Empregado_AumentoSalario",
-    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor2",
-    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor3",
-    "\\Exercicios_Resolvidos\\Vetores\\Exercicio_Vetor3\\ExercicioVetor"
+    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface\\Entities",
+    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface\\Services"
   ],
+  "SelectedNode": "\\Exercicios_Resolvidos\\Interfaces\\Solucao_com_Interface",
   "PreviewInSolutionExplorer": false
 }
