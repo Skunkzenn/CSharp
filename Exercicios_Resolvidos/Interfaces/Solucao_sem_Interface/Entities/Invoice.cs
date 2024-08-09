@@ -5,7 +5,7 @@ namespace Course.Entities {
 
         public double BasicPayment { get; set; }
         public double Tax { get; set; }
-
+        
         public Invoice(double rental, double tax) {
             BasicPayment = rental;
             Tax = tax;
