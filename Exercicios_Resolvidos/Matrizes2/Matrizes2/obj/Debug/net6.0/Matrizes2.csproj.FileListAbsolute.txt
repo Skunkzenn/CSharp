@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\bin\Debug\net6.0\Matrizes2.exe
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\bin\Debug\net6.0\Matrizes2.deps.json
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\bin\Debug\net6.0\Matrizes2.runtimeconfig.json
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\bin\Debug\net6.0\Matrizes2.dll
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\bin\Debug\net6.0\Matrizes2.pdb
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.dll
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\refint\Matrizes2.dll
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.pdb
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\Matrizes2.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\Matrizes2\Matrizes2\obj\Debug\net6.0\ref\Matrizes2.dll

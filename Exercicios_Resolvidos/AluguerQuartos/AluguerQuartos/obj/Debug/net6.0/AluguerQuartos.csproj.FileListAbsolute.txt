@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\bin\Debug\net6.0\AluguerQuartos.exe
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\bin\Debug\net6.0\AluguerQuartos.deps.json
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\bin\Debug\net6.0\AluguerQuartos.runtimeconfig.json
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\bin\Debug\net6.0\AluguerQuartos.dll
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\bin\Debug\net6.0\AluguerQuartos.pdb
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.dll
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\refint\AluguerQuartos.dll
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.pdb
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\AluguerQuartos.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\AluguerQuartos\AluguerQuartos\obj\Debug\net6.0\ref\AluguerQuartos.dll

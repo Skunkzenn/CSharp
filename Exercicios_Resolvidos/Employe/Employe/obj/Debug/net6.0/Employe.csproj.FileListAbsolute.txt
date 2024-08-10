@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\Employe\Employe\bin\Debug\net6.0\Employe.exe
+C:\Users\Destefani\source\repos\Employe\Employe\bin\Debug\net6.0\Employe.deps.json
+C:\Users\Destefani\source\repos\Employe\Employe\bin\Debug\net6.0\Employe.runtimeconfig.json
+C:\Users\Destefani\source\repos\Employe\Employe\bin\Debug\net6.0\Employe.dll
+C:\Users\Destefani\source\repos\Employe\Employe\bin\Debug\net6.0\Employe.pdb
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.dll
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\refint\Employe.dll
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.pdb
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\Employe.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\Employe\Employe\obj\Debug\net6.0\ref\Employe.dll

@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\Vetores\Vetores\bin\Debug\net6.0\Vetores.exe
+C:\Users\Destefani\source\repos\Vetores\Vetores\bin\Debug\net6.0\Vetores.deps.json
+C:\Users\Destefani\source\repos\Vetores\Vetores\bin\Debug\net6.0\Vetores.runtimeconfig.json
+C:\Users\Destefani\source\repos\Vetores\Vetores\bin\Debug\net6.0\Vetores.dll
+C:\Users\Destefani\source\repos\Vetores\Vetores\bin\Debug\net6.0\Vetores.pdb
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.dll
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\refint\Vetores.dll
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.pdb
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\Vetores.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\Vetores\Vetores\obj\Debug\net6.0\ref\Vetores.dll
