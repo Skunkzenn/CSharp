@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Destefani\\source\\repos\\CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Interfaces\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_14_Interfaces\\Interfaces\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -47,6 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Definicoes.cs",
+              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs",
+              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs",
+              "RelativeToolTip": "C_Sharp\\Cap_14_Interfaces\\HerancaMultipla_ProblemaDiamante\\Definicoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:52:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Definicoes.cs",
+              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs",
+              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs",
+              "RelativeToolTip": "C_Sharp\\Cap_14_Interfaces\\Herdas_CumprirContrato\\Definicoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:47:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs",
+              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs",
+              "RelativeToolTip": "C_Sharp\\Cap_14_Interfaces\\Inversao_de_Controle\\Info.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:39:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Interfaces.cs",
               "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_14_Interfaces\\Interfaces\\Interfaces.cs",
               "RelativeDocumentMoniker": "C_Sharp\\Cap_14_Interfaces\\Interfaces\\Interfaces.cs",
