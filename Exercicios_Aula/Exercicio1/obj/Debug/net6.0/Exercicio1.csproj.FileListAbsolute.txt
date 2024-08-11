@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\bin\Debug\net6.0\Exercicio1.exe
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\bin\Debug\net6.0\Exercicio1.deps.json
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\bin\Debug\net6.0\Exercicio1.runtimeconfig.json
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\bin\Debug\net6.0\Exercicio1.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\bin\Debug\net6.0\Exercicio1.pdb
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\refint\Exercicio1.dll
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.pdb
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\Exercicio1.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\ExerciciosRevisao\Exercicio1\obj\Debug\net6.0\ref\Exercicio1.dll

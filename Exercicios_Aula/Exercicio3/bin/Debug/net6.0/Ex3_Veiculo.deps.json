@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex3_Veiculo/1.0.0": {
+        "runtime": {
+          "Ex3_Veiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex3_Veiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

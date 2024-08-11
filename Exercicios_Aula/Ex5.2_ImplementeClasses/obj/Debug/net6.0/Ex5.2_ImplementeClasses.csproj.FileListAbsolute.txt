@@ -1,0 +1,14 @@
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\bin\Debug\net6.0\Ex5.2_ImplementeClasses.exe
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\bin\Debug\net6.0\Ex5.2_ImplementeClasses.deps.json
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\bin\Debug\net6.0\Ex5.2_ImplementeClasses.runtimeconfig.json
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\bin\Debug\net6.0\Ex5.2_ImplementeClasses.dll
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\bin\Debug\net6.0\Ex5.2_ImplementeClasses.pdb
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.AssemblyInfo.cs
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.csproj.CoreCompileInputs.cache
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.dll
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\refint\Ex5.2_ImplementeClasses.dll
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.pdb
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\Ex5.2_ImplementeClasses.genruntimeconfig.cache
+C:\Users\Programacao PC\source\repos\ExerciciosRevisao\Ex5.2_ImplementeClasses\obj\Debug\net6.0\ref\Ex5.2_ImplementeClasses.dll

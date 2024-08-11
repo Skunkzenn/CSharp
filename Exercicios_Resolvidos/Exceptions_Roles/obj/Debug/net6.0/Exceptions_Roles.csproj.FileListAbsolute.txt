@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\Exceptions_Roles\bin\Debug\net6.0\Exceptions_Roles.exe
+C:\Users\Victor\source\repos\Exceptions_Roles\bin\Debug\net6.0\Exceptions_Roles.deps.json
+C:\Users\Victor\source\repos\Exceptions_Roles\bin\Debug\net6.0\Exceptions_Roles.runtimeconfig.json
+C:\Users\Victor\source\repos\Exceptions_Roles\bin\Debug\net6.0\Exceptions_Roles.dll
+C:\Users\Victor\source\repos\Exceptions_Roles\bin\Debug\net6.0\Exceptions_Roles.pdb
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.dll
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\refint\Exceptions_Roles.dll
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.pdb
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\Exceptions_Roles.genruntimeconfig.cache
+C:\Users\Victor\source\repos\Exceptions_Roles\obj\Debug\net6.0\ref\Exceptions_Roles.dll

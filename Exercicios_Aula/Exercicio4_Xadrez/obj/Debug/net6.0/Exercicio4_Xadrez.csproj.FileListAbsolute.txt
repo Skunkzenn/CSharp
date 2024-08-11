@@ -1,0 +1,14 @@
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\bin\Debug\net6.0\Exercicio4_Xadrez.exe
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\bin\Debug\net6.0\Exercicio4_Xadrez.deps.json
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\bin\Debug\net6.0\Exercicio4_Xadrez.runtimeconfig.json
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\bin\Debug\net6.0\Exercicio4_Xadrez.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\bin\Debug\net6.0\Exercicio4_Xadrez.pdb
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.AssemblyInfoInputs.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.AssemblyInfo.cs
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\refint\Exercicio4_Xadrez.dll
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.pdb
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\Exercicio4_Xadrez.genruntimeconfig.cache
+C:\Users\Destefani\Desktop\ExerciciosRevisao\Exercicio4_Xadrez\obj\Debug\net6.0\ref\Exercicio4_Xadrez.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap_5_Construtores_This_Sobrecarga_Encapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de667baeef8175b64690f96be693fdbd1ca328b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfed9b0b5d773310b3d74f479004523d93509367")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap_5_Construtores_This_Sobrecarga_Encapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap_5_Construtores_This_Sobrecarga_Encapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

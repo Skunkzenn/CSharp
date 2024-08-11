@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\Working_with_files\bin\Debug\net6.0\Working_with_files.exe
+C:\Users\Victor\source\repos\Working_with_files\bin\Debug\net6.0\Working_with_files.deps.json
+C:\Users\Victor\source\repos\Working_with_files\bin\Debug\net6.0\Working_with_files.runtimeconfig.json
+C:\Users\Victor\source\repos\Working_with_files\bin\Debug\net6.0\Working_with_files.dll
+C:\Users\Victor\source\repos\Working_with_files\bin\Debug\net6.0\Working_with_files.pdb
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.dll
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\refint\Working_with_files.dll
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.pdb
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\Working_with_files.genruntimeconfig.cache
+C:\Users\Victor\source\repos\Working_with_files\obj\Debug\net6.0\ref\Working_with_files.dll

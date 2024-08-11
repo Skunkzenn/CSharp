@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exceptions_Roles/1.0.0": {
+        "runtime": {
+          "Exceptions_Roles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceptions_Roles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

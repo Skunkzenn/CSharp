@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exercicios_Resolvidos",
-    "\\Exercicios_Resolvidos\\Interfaces",
-    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface",
-    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface\\Entities",
-    "\\Exercicios_Resolvidos\\Interfaces\\Solucao_sem_Interface\\Services"
+    "\\C_Sharp",
+    "\\C_Sharp\\Cap_14_Interfaces"
   ],
-  "SelectedNode": "\\Exercicios_Resolvidos\\Interfaces\\Solucao_com_Interface",
   "PreviewInSolutionExplorer": false
 }
