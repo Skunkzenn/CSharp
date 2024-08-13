@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Source\\Repos\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2421,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,40 +58,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Definicao.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs",
-              "RelativeDocumentMoniker": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs",
-              "ToolTip": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs",
-              "RelativeToolTip": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Definicao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:18:53.758Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs",
-              "RelativeDocumentMoniker": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs",
-              "ToolTip": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs",
-              "RelativeToolTip": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACpAAAA",
+              "DocumentMoniker": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs",
+              "RelativeToolTip": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Exemplo\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:15:44.151Z",
+              "WhenOpened": "2024-08-13T15:51:03.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrintService.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs",
-              "RelativeDocumentMoniker": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs",
-              "ToolTip": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs",
-              "RelativeToolTip": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course\\PrintService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "DocumentIndex": 1,
+              "Title": "Definicao.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs",
+              "RelativeDocumentMoniker": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs",
+              "ToolTip": "C:\\Users\\victo\\Source\\Repos\\CSharp\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs",
+              "RelativeToolTip": "C_Sharp\\Cap_15_Generics_Set_Dictionary\\Dictionary_\u0026_SortedDictionary\\Definicao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:15:01.87Z"
+              "WhenOpened": "2024-08-13T15:35:06.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 409,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
