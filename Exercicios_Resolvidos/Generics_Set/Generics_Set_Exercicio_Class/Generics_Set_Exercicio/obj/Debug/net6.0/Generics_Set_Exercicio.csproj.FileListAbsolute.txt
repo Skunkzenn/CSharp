@@ -1,0 +1,14 @@
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\bin\Debug\net6.0\Generics_Set_Exercicio.exe
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\bin\Debug\net6.0\Generics_Set_Exercicio.deps.json
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\bin\Debug\net6.0\Generics_Set_Exercicio.runtimeconfig.json
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\bin\Debug\net6.0\Generics_Set_Exercicio.dll
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\bin\Debug\net6.0\Generics_Set_Exercicio.pdb
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.AssemblyInfoInputs.cache
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.AssemblyInfo.cs
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.dll
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\refint\Generics_Set_Exercicio.dll
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.pdb
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\Generics_Set_Exercicio.genruntimeconfig.cache
+C:\Users\victo\Source\Repos\Generics_Set_Exercicio\Generics_Set_Exercicio\obj\Debug\net6.0\ref\Generics_Set_Exercicio.dll

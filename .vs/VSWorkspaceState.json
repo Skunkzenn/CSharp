@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C_Sharp"
+    "\\C_Sharp",
+    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary",
+    "\\Exercicios_Resolvidos",
+    "\\Exercicios_Resolvidos\\Generics_Set",
+    "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_Class",
+    "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_UnionWith"
   ],
-  "SelectedNode": "\\C_Sharp\\Cap_04_Classes_Atributos_Metodos_MembrosEstaticos_",
+  "SelectedNode": "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_UnionWith\\Course.sln",
   "PreviewInSolutionExplorer": false
 }
