@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap_3_Recaptulando_Logica_com_C_Sharp_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f72ec4d1176c8c1f4d62ba0636d23f4614ab6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92efedcd3a2d409a76efd12d239024e34dce4254")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap_3_Recaptulando_Logica_com_C_Sharp_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap_3_Recaptulando_Logica_com_C_Sharp_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
