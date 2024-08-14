@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generics_Set_Exercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91016ddec77b4a1b9754a557ae144f7da19b1b16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d46976f49cdbaa07239393983c8fa3cc5dd609c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generics_Set_Exercicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generics_Set_Exercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

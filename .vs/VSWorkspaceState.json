@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\C_Sharp",
-    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary",
+    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos",
+    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\FileStream_StreamReader",
+    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException",
+    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Reuso_TypeSafety_Performance\\Course",
+    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics",
+    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course",
     "\\Exercicios_Resolvidos",
-    "\\Exercicios_Resolvidos\\Generics_Set",
-    "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_Class",
-    "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_UnionWith"
+    "\\Exercicios_Resolvidos\\Exceptions_Roles\\Entities"
   ],
-  "SelectedNode": "\\Exercicios_Resolvidos\\Generics_Set\\Generics_Set_Exercicio_UnionWith\\Course.sln",
+  "SelectedNode": "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
   "PreviewInSolutionExplorer": false
 }
