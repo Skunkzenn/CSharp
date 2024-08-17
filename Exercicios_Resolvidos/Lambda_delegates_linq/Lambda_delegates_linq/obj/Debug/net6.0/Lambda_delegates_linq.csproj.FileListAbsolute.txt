@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\bin\Debug\net6.0\Lambda_delegates_linq.exe
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\bin\Debug\net6.0\Lambda_delegates_linq.deps.json
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\bin\Debug\net6.0\Lambda_delegates_linq.runtimeconfig.json
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\bin\Debug\net6.0\Lambda_delegates_linq.dll
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\bin\Debug\net6.0\Lambda_delegates_linq.pdb
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.dll
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\refint\Lambda_delegates_linq.dll
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.pdb
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\Lambda_delegates_linq.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\Lambda_delegates_linq\Lambda_delegates_linq\obj\Debug\net6.0\ref\Lambda_delegates_linq.dll

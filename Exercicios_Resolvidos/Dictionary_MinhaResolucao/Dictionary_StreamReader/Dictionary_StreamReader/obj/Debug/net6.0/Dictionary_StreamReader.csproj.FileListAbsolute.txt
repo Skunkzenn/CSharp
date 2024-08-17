@@ -1,0 +1,14 @@
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\bin\Debug\net6.0\Dictionary_StreamReader.exe
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\bin\Debug\net6.0\Dictionary_StreamReader.deps.json
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\bin\Debug\net6.0\Dictionary_StreamReader.runtimeconfig.json
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\bin\Debug\net6.0\Dictionary_StreamReader.dll
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\bin\Debug\net6.0\Dictionary_StreamReader.pdb
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.AssemblyInfoInputs.cache
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.AssemblyInfo.cs
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.dll
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\refint\Dictionary_StreamReader.dll
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.pdb
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\Dictionary_StreamReader.genruntimeconfig.cache
+C:\Users\Destefani\source\repos\Dictionary_StreamReader\Dictionary_StreamReader\obj\Debug\net6.0\ref\Dictionary_StreamReader.dll

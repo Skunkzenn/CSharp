@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Destefani\\source\\repos\\Lambda_delegates_linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FFED79-AAD0-439F-A8C4-89FA727A7310}|Lambda_delegates_linq\\Lambda_delegates_linq.csproj|c:\\users\\destefani\\source\\repos\\lambda_delegates_linq\\lambda_delegates_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FFED79-AAD0-439F-A8C4-89FA727A7310}|Lambda_delegates_linq\\Lambda_delegates_linq.csproj|solutionrelative:lambda_delegates_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FFED79-AAD0-439F-A8C4-89FA727A7310}|Lambda_delegates_linq\\Lambda_delegates_linq.csproj|c:\\users\\destefani\\source\\repos\\lambda_delegates_linq\\lambda_delegates_linq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FFED79-AAD0-439F-A8C4-89FA727A7310}|Lambda_delegates_linq\\Lambda_delegates_linq.csproj|solutionrelative:lambda_delegates_linq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1435,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\Lambda_delegates_linq\\Lambda_delegates_linq\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Lambda_delegates_linq\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\Lambda_delegates_linq\\Lambda_delegates_linq\\Entities\\Product.cs",
+              "RelativeToolTip": "Lambda_delegates_linq\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:45:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\Lambda_delegates_linq\\Lambda_delegates_linq\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda_delegates_linq\\Program.cs",
+              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\Lambda_delegates_linq\\Lambda_delegates_linq\\Program.cs",
+              "RelativeToolTip": "Lambda_delegates_linq\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:43:50.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1395,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

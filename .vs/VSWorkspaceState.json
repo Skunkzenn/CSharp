@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C_Sharp",
-    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos",
-    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\FileStream_StreamReader",
-    "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException",
-    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Reuso_TypeSafety_Performance\\Course",
-    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics",
-    "\\C_Sharp\\Cap_15_Generics_Set_Dictionary\\Generics\\Solucao_com_Generics\\Course",
-    "\\Exercicios_Resolvidos",
-    "\\Exercicios_Resolvidos\\Exceptions_Roles\\Entities"
+    "\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao",
+    "\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader",
+    "\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader"
   ],
-  "SelectedNode": "\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
+  "SelectedNode": "\\Material_de_Apoio",
   "PreviewInSolutionExplorer": false
 }
