@@ -1,0 +1,62 @@
+$ git --version -> verifica versão
+$ git config --global user.name "Victor Destefani"
+$ git config --global user.email "victor.destefani@outlook.com"
+
+$ git config --list //Valida configurações iniciais do git
+$ git status -> verifica as alterações realizadas no repositório
+$ git log -> Verifica o histórico de versões do git
+$ git log --oneline -> Verifica o histórico de versões do git de forma resumida
+
+Configurar Chave SSH para o Git
+
+$ ssh-keygen -t ed25519 -C "victor.destefani@outlook.com"
+
+Caminho da pasta onde está salvo a chave ssh -> Your public key has been saved in /c/Users/Dot/.ssh/id_ed25519
+Agora é preciso ir até o github, nas definições de conta, procurar por: SSH and GPG keys e inserir a chave para validar o computador
+
+Passo a passo: salvar primeira versão de um projeto no Github
+$ git init -> projeto passa a ser gerenciado pelo git, ou seja, um repositório de versionamento
+$ git add . -> envia os arquivos do projetos para a área temporária (staging / área temporária)
+
+
+$ git commit -m "Mensagem explicativa" -> Envia e salva a nova versão do projeto no repositorio git
+$ git branch -M main -> Depende de como instalaste o git, mas para garantir que estamos a utilizar a nova nomeclatura do git, fazemos -M main
+
+//O github já fornece esse código quando se cria o repositório, entretanto temos de validar como será feito o clone, pois como estamos a validar por SSH, devemos seguir o mesmo parâmetro
+$ git remote add origin git@github.com:seuusuario/seurepositorio.git -> associa projeto local com o projeto remoto (no github)
+$ git push -u origin main -> envia o projeto para o github
+
+
+//Projeto sofreu alterações, vamos salvar então a nova versão
+$ git add . 
+$ git commit -m "alterações"
+$ git push -> como não é mais a primeira vez para envio, basta enviar com o push
+
+
+//Clonar e modificar um projeto de um repositório remoto que você tem permissão para alterar, com todo o histórico
+git clone git@github.com:seuusuario/seurepositorio.git -> efetua clone tanto o projeto quanto do histórico
+
+//Agora necessitamos entrar dentro do diretorio que foi clonado do github
+$ code . -> abre o VsCode já dentro da pasta
+$ git add .
+$ git commit -m "Mensagem explicativa"
+$ git push
+
+
+//Comando git status e suas derivações
+Arquivo modificado no projeto -> modified
+Arquivo criado novo no projeto -> untracked
+Arquivo eliminado no projeto -> deleted
+
+$ git reset -> tira todo mundo do staging para o local de origem, só pode ser usado a seguir ao 'git add .', se tentar fazer depois do 'git push' não vai funcionar
+
+//Se realizamos alteração em 10 ficheiros e só queremos passar 2 alterações em um commit e as outras 8 em outro commit podemos fazer:
+$ git add 'nome-do-ficheiro.extensao' -> só vai adicionar no staging esse arquivo
+$ git commit -m "nome-do-ficheiro.extensao adicionado"
+
+//Ai sim podemos adicionar os demais, se não quisermos separados
+$ git add .
+$ git commit -m "demais ficheiros pendentes"
+
+//Mostra as diferenças realizadas sobre o ficheiro atual com o que esta no rep remoto
+$ git diff

@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Destefani\\source\\repos\\CSharp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Dot\\Source\\Repos\\CSharp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1435,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,32 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs",
-              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\CSharp\\Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs",
-              "RelativeToolTip": "Exercicios_Resolvidos\\Dictionary_MinhaResolucao\\Dictionary_StreamReader\\Dictionary_StreamReader\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:19:03.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "File_FileInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
-              "RelativeDocumentMoniker": "C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
-              "ToolTip": "C:\\Users\\Destefani\\source\\repos\\CSharp\\C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
-              "RelativeToolTip": "C_Sharp\\Cap_13_Trabalhando_com_Arquivos\\File_FileInfo_IOException\\File_FileInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:59:01.096Z",
-              "EditorCaption": ""
             }
           ]
         },
